@@ -12,9 +12,9 @@ You have to install Python 3 first:
 * Install Python 3 on Arch Linux and its distros: <code>sudo pacman -S python3</code>
 * Install Python 3 on Debian and its distros: <code>sudo apt install python3</code>
 
-You have to install Hydra, Medusa and Ncrack too:
-* On Arch Linux and its distros: <code>sudo pacman -S hydra medusa ncrack</code>
-* On Debian and its distros: <code>sudo apt install hydra medusa ncrack</code>
+You have to install Hydra, Medusa, Nmap and Ncrack too:
+* On Arch Linux and its distros: <code>sudo pacman -S nmap hydra medusa ncrack</code>
+* On Debian and its distros: <code>sudo apt install nmap hydra medusa ncrack</code>
 
       git clone https://github.com/GitHackTools/BruteDum
       cd BruteDum
